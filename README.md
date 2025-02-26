@@ -21,7 +21,7 @@ Die Helligkeit der beiden LED`s kann im Vorfeld eingestellt werden und somit ein
 
 ## ⚡ Nutzung
 Der Kunde Legt seinen Kopf in eine Vorrichtung zum stabilisieren des Kopfes. Anschließend wird das LED Gerät vor das Auge gehalten. Nun kann der Fotograph die LEDs in zwei Stufen einstellen. In der ersten Stufe, welche durch den druck auf den Rotary Encoder ausgeführt wird, wird die vorhelligkeit eingestellt. Bei einem weiteren Druck auf den Knopf, wird die Zielhelligkeit für die Aufnahme des Fotos eingestellt. Anschließend wird durch einen weiteren Druck auf den Encoder das Menü verlassen. Nun wird durch den Druck auf den silberen Knopf der Durchlauf gestartet. 
-
+##   Statemachine
 ![image](https://github.com/user-attachments/assets/7532e40f-0c54-4099-9b48-818b95740bab)
 
 
