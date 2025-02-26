@@ -34,4 +34,10 @@ Der Kunde Legt seinen Kopf in eine Vorrichtung zum stabilisieren des Kopfes. Ans
 ## 🛠 Aktuelle Probleme
 - reflexion des Lichts noch schwach im Foto erkennbar. Lösung --> schwarzen dünnen Stoff oder Papier auf die LEDs kleben
 - Gerät schaltet nach einigerzeit an einer Powerbank ab. Liegt aber eher an der Powerbank
-- Helligkeitswerte werden aktuell im Code nur temporär, also für jeden Bootvorgang, gespeichert. Dieses kann noch so verändert werden, dass die Werte in den EEPROM geschrieben werden. 
+- Helligkeitswerte werden aktuell im Code nur temporär, also für jeden Bootvorgang, gespeichert. Dieses kann noch so verändert werden, dass die Werte in den EEPROM geschrieben werden.
+
+## Fotos
+![WhatsApp Image 2025-02-26 at 15 45 55 (2)](https://github.com/user-attachments/assets/d93f09d4-866b-462e-963d-6389d1af6781)
+![WhatsApp Image 2025-02-26 at 15 45 55 (1)](https://github.com/user-attachments/assets/45b0084f-0aab-4753-9170-c3901d4539c7)
+![WhatsApp Image 2025-02-26 at 15 45 55](https://github.com/user-attachments/assets/425b44c1-195a-4099-b50e-e75000af3f2a)
+
