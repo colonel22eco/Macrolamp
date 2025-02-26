@@ -1,8 +1,8 @@
 # Macrolamp
 
 ## ✨ Projektbeschreibung
-Projekt zur Aufnahme von Iris Augen Fotos. Hierzu werden zwei LED`s mit einem Arduino Nano gesteuert und im Richtigen Moment ein Shutter Auslösebefehl an die angeschlossene Kamera gesendet. 
-Die Helligkeit der beiden LED`s kann im Vorfeld eingestellt werden und somit eine vergrößerung der Iris bewirkt werden. Das Zeitintervall, wie lange die LED`s an bleiben ist nur durch eine Anderung des Programmcodes möglich. Die angeschlossenen LED`s sind entweder mit dem Schwarnenhals verbunden oder aber mit dem Aufsatz für das Auge. Die LED`s sind mit Kabeln und entsprechenden Steckern verbunden, so dass eine mühelose verbindung untereinander möglich ist.  
+Projekt zur Aufnahme von Iris Augen Fotos. Hierzu werden zwei LEDs mit einem Arduino Nano gesteuert und im Richtigen Moment ein Shutter Auslösebefehl an die angeschlossene Kamera gesendet. 
+Die Helligkeit der beiden LED`s kann im Vorfeld eingestellt werden und somit eine vergrößerung der Iris bewirkt werden. Das Zeitintervall, wie lange die LEDs an bleiben ist nur durch eine Anderung des Programmcodes möglich. Die angeschlossenen LEDs sind entweder mit dem Schwarnenhals verbunden oder aber mit dem Aufsatz für das Auge. Die LEDs sind mit Kabeln und entsprechenden Steckern verbunden, so dass eine mühelose verbindung untereinander möglich ist.  
 
 ## 🛠 Installation & Einrichtung
 ### Voraussetzungen
@@ -12,8 +12,8 @@ Die Helligkeit der beiden LED`s kann im Vorfeld eingestellt werden und somit ein
 
 ## 📝 Features
 - einstellen der Helligkeit
-- einfacher Wechsel der LED`s
-- synchronisation des Kamerashutters mit den LED`s
+- einfacher Wechsel der LEDs
+- synchronisation des Kamerashutters mit den LEDs
 
 ## 🏆 Ziele
 - Aufnahme von Irisfotos durch zeitversetztes aufnehmen von zwei Fotos. Hierdurch wird der Lichtreflex verringert.
@@ -22,6 +22,7 @@ Die Helligkeit der beiden LED`s kann im Vorfeld eingestellt werden und somit ein
 ## ⚡ Nutzung
 Der Kunde Legt seinen Kopf in eine Vorrichtung zum stabilisieren des Kopfes. Anschließend wird das LED Gerät vor das Auge gehalten. Nun kann der Fotograph die LEDs in zwei Stufen einstellen. In der ersten Stufe, welche durch den druck auf den Rotary Encoder ausgeführt wird, wird die vorhelligkeit eingestellt. Bei einem weiteren Druck auf den Knopf, wird die Zielhelligkeit für die Aufnahme des Fotos eingestellt. Anschließend wird durch einen weiteren Druck auf den Encoder das Menü verlassen. Nun wird durch den Druck auf den silberen Knopf der Durchlauf gestartet. 
 
+![image](https://github.com/user-attachments/assets/7532e40f-0c54-4099-9b48-818b95740bab)
 
 
 ## 🔄 Nächste Schritte
